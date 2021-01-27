@@ -1,1 +1,1 @@
-# dice-game
+https://pro-yogesh.github.io/dice-game/
